@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eduardovaladao
-- 👀 I’m interested in learn more about websites designs
+- 👀 I’m interested in learn more about websites designs and back-ending
 - 🌱 I’m currently learning at W3Schools oficial documents
-- 💞️ I’m looking to collaborate on design area and back-ending
+- 💞️ I’m looking to collaborate on design area
 - 📫 How to reach me ...
 
 <!---
